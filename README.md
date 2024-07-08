@@ -10,3 +10,4 @@
 
 * [cachebox](https://github.com/awolverp/cachebox) - The fastest memoizing and caching Python library written in Rust.
 * [cachetools](https://github.com/tkem/cachetools) - Extensible memoizing collections and decorators
+* [python-diskcache](https://github.com/grantjenks/python-diskcache) - Python disk-backed cache (Django-compatible). Faster than Redis and Memcached. Pure-Python.
